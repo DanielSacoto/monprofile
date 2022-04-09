@@ -1,0 +1,66 @@
+body {
+	background-color: rgb(30, 30, 30);
+    color: whitesmoke;
+    font size: 18px;
+    font-family: swap;
+    font font-weight: lighter;
+}
+
+h1,h2 {
+	font-family: swap;
+}
+
+h1 {
+	font-size: 50px;
+	font-weight: 900;
+	font-weight: bolder;
+
+}
+
+h2 { 
+	color: #F1D00A;
+	font-size: 20px;
+	font-weight: 500;
+ }
+
+div {
+background-color: rgb(30,30,30);
+padding: 40px;
+border- border-radius: 5px;
+box-shadow: 0px 10px 30px;
+text-align: center;
+width: 600px;
+margin: 30px auto;
+}
+
+img{
+	border-radius: 50%;
+	width: 100px;
+} 
+
+a { 
+	background-color: whitesmoke;
+	color: rgb(30, 30, 30);
+	border-radius: 4px;
+	padding:20px 10px ;
+	text-decoration: none;
+	font-family: swap;
+	font-weight: bold;
+	text-align: center;
+
+ }
+
+ a:hover {
+ 	background-color: #F1D00A;
+ 	color:rgb(>30,30,30);
+ }
+
+i { 
+	font-size: 40px;
+ }
+
+ #Facebook {
+ padding:25px 10px 
+}
+
+
